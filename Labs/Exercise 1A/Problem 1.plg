@@ -1,0 +1,30 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Problem 1 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Documents and Settings\cmitchell\Local Settings\Temp\RSP55.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/Problem 1.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\CISP400\HOMEWORK\Exercise 1A\Problem 1.cpp"
+]
+Creating command line "cl.exe @"C:\Documents and Settings\cmitchell\Local Settings\Temp\RSP55.tmp"" 
+<h3>Output Window</h3>
+Compiling...
+Problem 1.cpp
+e:\cisp400\homework\exercise 1a\problem 1.cpp(14) : fatal error C1001: INTERNAL COMPILER ERROR
+        (compiler file 'msc1.cpp', line 1794) 
+         Please choose the Technical Support command on the Visual C++ 
+         Help menu, or open the Technical Support help file for more information
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+Problem 1.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Exercise 3C - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\CMITCH~1\LOCALS~1\Temp\RSP137.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/Exercise 3C.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\CISP400\HOMEWORK\Exercise 3C\Problem 1.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\CMITCH~1\LOCALS~1\Temp\RSP137.tmp" 
+<h3>Output Window</h3>
+Compiling...
+Problem 1.cpp
+e:\cisp400\homework\exercise 3c\problem 1.cpp(152) : warning C4800: 'void *' : forcing value to bool 'true' or 'false' (performance warning)
+e:\cisp400\homework\exercise 3c\problem 1.cpp(153) : warning C4800: 'void *' : forcing value to bool 'true' or 'false' (performance warning)
+
+
+
+<h3>Results</h3>
+Problem 1.obj - 0 error(s), 2 warning(s)
+</pre>
+</body>
+</html>

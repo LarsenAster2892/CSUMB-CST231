@@ -1,0 +1,10 @@
+//********************************************************
+// File Name   : Flight.h  
+// Author      : Clarence Mitchell
+// Assignment  : Number 1
+// Date Due    : July 1, 2003 (11:59 PM)
+// Description : Header file for flight class
+// -----------------------------------------------------------             
+// Class       : CISP400 - SUMMER 2003 MW 5:30PM
+// Instructor  : Krofchok
+// ********************************************************
